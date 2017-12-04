@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resc/images/loading_2.gif</file>
+        <file>Resc/images/loading_3.gif</file>
+        <file>Resc/images/loading_4.gif</file>
+        <file>Resc/images/loading.gif</file>
+        <file>Resc/database/pinyin.db</file>
+        <file>Resc/icons/fontawesome-webfont.ttf</file>
+        <file>Resc/icons/setting.png</file>
+        <file>Resc/icons/home.png</file>
+        <file>Resc/icons/item.png</file>
+        <file>Resc/icons/curve.png</file>
+        <file>Resc/icons/square.png</file>
+        <file>Resc/icons/down_arrow.png</file>
+    </qresource>
+</RCC>
